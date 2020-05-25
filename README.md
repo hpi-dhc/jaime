@@ -1,4 +1,4 @@
-# Using Interpretability Approaches to Update ``Black-Box'' Clinical Prediction Models
+# Using Interpretability Approaches to Update "Black-Box" Clinical Prediction Models
 Authors: Harry Freitas da Cruz, Boris Pfahringer, Tom Martensen, Frederic Schneider, Alexander Meyer, Erwin Böttinger and Matthieu-P. Schapranow
 
 **Abstract**
