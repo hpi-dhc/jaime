@@ -51,7 +51,7 @@ more-itertools==8.0.2
 -e git+git@github.com:hpi-dhc/morpher-toolkit.git@2bca94e3abd70929e849604b31eb476c448482d7#egg=morpher
 mpld3==0.3
 multiprocess==0.70.9
-nbconvert==6.3.0
+nbconvert==6.5.1
 nbformat==4.4.0
 networkx==2.4
 notebook==6.4.12
